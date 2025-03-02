@@ -1,5 +1,5 @@
 ## Hi there 👋  
-![Open to professional opportunities](https://img.shields.io/badge/Open_to_Opportunities-%F0%9F%91%8D-brightgreen)
+![Open to Professional Opportunities](https://img.shields.io/badge/Open_to_professional_opportunities-%F0%9F%91%8D-brightgreen)
 
 I’m a **Software & Data Engineer** passionate about learning new programming languages and building useful software and applications. Here are a few projects I’m currently working on:
 
