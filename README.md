@@ -18,6 +18,8 @@ In addition, I manage my personal **homelab**.
 ## 🎓 Education & 💼 Professional Experience  
 - **Double background**: Master’s degree in **neuropsychology** and **software development/data**.  
 - **French Ministry of Sports**: Data cleaning and statistical analysis using **Python**.  
-- **Onepoint**: Built a **flight tracker** using **Python, Docker, and Airflow**.  
+- **Onepoint**: Built a **flight tracker** using **Python, Docker, and Airflow**.
+  
+🤝 Feel free to explore my projects, and if you think we could collaborate on an open-source project or if you have an exciting job opportunity in mind, don't hesitate to contact me!
 
-🤝 Feel free to explore my projects, and if you think we could collaborate on an open-source project or if you have an exciting job opportunity in mind, don’t hesitate to reach out!
+✉️ albdav.dev@gmail.com
