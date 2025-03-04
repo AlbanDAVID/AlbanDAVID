@@ -8,10 +8,41 @@ Passionate about learning new programming languages and building useful software
 
 In addition, I manage my personal **homelab**.
 
-## 🔧 Key Skills  
-- **Programming**: **Rust**, **Python**, **Dart/Flutter**  
-- **DevOps/Tools**: **Docker**, **Airflow**  
-- **Environment**: **Linux**  
+## 🔧 Languages and tech
+
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,rust,flutter&perline=15">
+  </a>
+  <br>
+
+  <!-- Containerization & DevOps -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker&perline=15">
+  </a>
+  <br>
+
+  <!-- Development Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,git,github&perline=15">
+  </a>
+  <br>
+
+  <!-- Operating Systems -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi&perline=15">
+  </a>
+  <br>
+
+  <!-- Cloud & Others -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp&perline=15">
+  </a>
+</p>
+
+
+
 
 💡 Always excited to learn new skills.
 
@@ -23,3 +54,13 @@ In addition, I manage my personal **homelab**.
 🤝 Feel free to explore my projects, and if you think we could collaborate on an open-source project or if you have an exciting job opportunity in mind, don't hesitate to contact me!
 
 ✉️ albdav.dev@gmail.com
+
+
+
+<div align="center">
+  <div>
+  <img style="align-items;" src="https://github-readme-stats.vercel.app/api?username=AlbanDAVID&theme=graywhite&show_icons=true&hide_border=false&count_private=true"/>
+  </div>
+ 
+</div>
+</div>
