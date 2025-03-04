@@ -35,9 +35,9 @@ In addition, I manage my personal **homelab**.
   </a>
   <br>
 
-  <!-- Cloud & Others -->
+  <!-- Cloud & Database -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp&perline=15">
+    <img src="https://skillicons.dev/icons?i=mysql,gcp&perline=15">
   </a>
 </p>
 
