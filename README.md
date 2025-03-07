@@ -58,11 +58,6 @@ In addition, I manage my personal **homelab**.
 ✉️ albdav.dev@gmail.com
 
 
-
-<div align="center">
-  <div>
-  <img style="align-items;" src="https://github-readme-stats.vercel.app/api?username=AlbanDAVID&theme=graywhite&show_icons=true&hide_border=false&count_private=true"/>
-  </div>
- 
-</div>
-</div>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AlbanDAVID&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a>
+</p>
