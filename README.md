@@ -25,6 +25,12 @@ In addition, I manage my personal **homelab**.
   </a>
   <br>
 
+  <!-- Cloud & Database -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,gcp&perline=15">
+  </a>
+  <br>
+
   <!-- Development Tools -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,git,github&perline=15">
@@ -37,10 +43,6 @@ In addition, I manage my personal **homelab**.
   </a>
   <br>
 
-  <!-- Cloud & Database -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,gcp&perline=15">
-  </a>
 </p>
 
 
