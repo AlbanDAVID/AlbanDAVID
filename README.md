@@ -55,9 +55,8 @@ In addition, I manage my personal **homelab**.
   
 🤝 Feel free to explore my projects, and if you think we could collaborate on an open-source project or if you have an exciting job opportunity in mind, don't hesitate to contact me!
 
-✉️ albdav.dev@gmail.com
 
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AlbanDAVID&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AlbanDAVID&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AlbanDAVID's GitHub stats" /></a>
 </p>
