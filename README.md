@@ -15,7 +15,7 @@ In addition, I manage my personal **homelab**.
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,flutter&perline=15">
+    <img src="https://skillicons.dev/icons?i=rust,py,flutter&perline=15">
   </a>
   <br>
 
