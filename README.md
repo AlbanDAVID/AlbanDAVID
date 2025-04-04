@@ -62,4 +62,4 @@ In addition, I manage my personal **homelab**.
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AlbanDAVID&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AlbanDAVID's GitHub stats" /></a>
 </p>
-![](https://komarev.com/ghpvc/?username=AlbanDAVID)
+
