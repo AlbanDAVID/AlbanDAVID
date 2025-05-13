@@ -10,47 +10,7 @@ Passionate about learning new programming languages and building useful software
 
 In addition, I manage my personal **homelab**.
 
-## 🔧 Languages and tech
-
-<p align="center">
-  <!-- Programming Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,flutter&perline=15">
-  </a>
-  <br>
-
-  <!-- Containerization & DevOps -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker&perline=15">
-  </a>
-  <br>
-
-  <!-- Cloud & Database -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,gcp&perline=15">
-  </a>
-  <br>
-
-  <!-- Development Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,git,github&perline=15">
-  </a>
-  <br>
-
-  <!-- Operating Systems -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi&perline=15">
-  </a>
-  <br>
-
-</p>
-
-
-
-
-💡 Always excited to learn new skills.
-
-## 🎓 Education & 💼 Professional Experience  
+## Education & Professional Experience  
 - **Double background**: Master’s degree in **neuropsychology** and **software development/data**.  
 - **French Ministry of Sports**: Data cleaning and statistical analysis using **Python**.  
 - **Onepoint**: Built a **flight tracker** using **Python, Docker, and Airflow**.
